@@ -2,5 +2,5 @@
 
 ## Teaching
 
-- Typography Project
-- Interactive Design Project
+- [Typography Project](teaching/typography-project.md)
+- [Interactive Design Project](teaching/interactive-design-project.md)
