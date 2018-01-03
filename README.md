@@ -1,2 +1,6 @@
-# interactive-design-project
-Interactive Design Project
+# Ideas
+
+## Teaching
+
+- Typography Project
+- Interactive Design Project
